@@ -5,8 +5,8 @@
 ## Pirate Luffy 
 
 
-#Hey, 
-##Guys 
+Hey,
+Guys 
 
 ### This bot is a full personal bot, so forgive who you can't Use this bot?
 
