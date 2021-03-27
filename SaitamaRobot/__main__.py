@@ -220,7 +220,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="☑️ Add Saitama to your group",
+                                text="☑️Add me in your group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -228,18 +228,18 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🚑 Support Group",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                text="😤Crown Anime Group",
+                                url=f"https://t.me/Crown_Anime",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Updates Channel",
+                                text="😁News Channel",
                                 url="https://t.me/OnePunchUpdates",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🧾 Getting started guide",
-                                url="https://t.me/OnePunchUpdates/29",
+                                text="🧾Personal Log Group",
+                                url="https://t.me/Luffy_Personal_Logs",
                             )
                         ],
                         [
