@@ -306,7 +306,7 @@ def info(update: Update, context: CallbackContext):
         disaster_level_present = True
 
     if disaster_level_present:
-        text += ' [<a href="https://telegra.ph/Ultroid-03-27">?</a>]'.format(
+        text += ' [<a href="https://telegra.ph/ғᴀʟᴄᴏ-ɢʀɪᴄᴇ-03-27-7">?</a>]'.format(
             bot.username
         )
 
