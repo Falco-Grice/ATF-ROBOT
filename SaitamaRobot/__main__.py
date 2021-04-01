@@ -229,17 +229,17 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="CrownAnime Group",
-                                url=f"https://t.me/Crown_Anime",
+                                url=f"https://t.me/ATFAnime",
                             ),
                             InlineKeyboardButton(
                                 text="News Channel",
-                                url="https://t.me/Crown_Anime_News",
+                                url="https://t.me/ATFAnimeOfficial",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="Personal Log Group",
-                                url="https://t.me/Luffy_Personal_Logs",
+                                url="https://t.me/joinchat/yszPnbfZ2AkwYzU9",
                             )
                         ],
                         [
