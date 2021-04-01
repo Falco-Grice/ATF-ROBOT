@@ -75,12 +75,12 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 I am an Anime themed group management bot.
-So Sorry for any issues This bot only made for Crown Anime! this bot is only personal group management bot. use /help to any enquiry
+So Sorry for any issues This bot only made for ATF Team! this bot is only personal group management bot. use /help to any enquiry
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-I'm Luffy and i'm here to your help.  Have a look at the following for an idea of some of \
+I'm a Personal Group Management BoT and I'm here to your help.  Have a look at the following for an idea of some of \
 the things I can help you with.
 
 *Main* commands available:
