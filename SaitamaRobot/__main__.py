@@ -98,7 +98,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/67c28066d90082b412e01.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/008c70025e3d9278cc29a.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/sawada) or by contacting @Sawada \
@@ -228,7 +228,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="CrownAnime Group",
+                                text="ATFofficial Group",
                                 url=f"https://t.me/ATFAnime",
                             ),
                             InlineKeyboardButton(
@@ -239,13 +239,13 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Personal Log Group",
-                                url="https://t.me/joinchat/yszPnbfZ2AkwYzU9",
+                                url="https://t.me/atfLogs",
                             )
                         ],
                         [
                             InlineKeyboardButton(
                                 text="🗄Source code",
-                                url="https://github.com/Falco-Grice/Pirate-Luffy",
+                                url="https://github.com/Falco-Grice/ATF-ROBOT",
                             )
                         ],
                     ]
